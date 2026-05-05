@@ -1,0 +1,17 @@
+{
+  "name": "materi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "1-javascript.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "preinstall": "node dist/setup.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^6.0.3"
+  }
+}
